@@ -1,0 +1,6 @@
+@dotNet_foodSavvy_HostAddress = http://localhost:5121
+
+GET {{dotNet_foodSavvy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
